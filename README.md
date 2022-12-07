@@ -107,6 +107,9 @@ python multi_robot.py
 
 # Resources :handshake:
 :small_orange_diamond: https://osrf.github.io/ros2multirobotbook/
+
 :small_orange_diamond: http://wiki.ros.org/navigation
+
 :small_orange_diamond: https://pypi.org/project/PyQt5/
+
 :small_orange_diamond: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
