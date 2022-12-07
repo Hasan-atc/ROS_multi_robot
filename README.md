@@ -96,6 +96,7 @@ istemci.send_goal(hedef)  # Sending target points to the robot
 :bulb: With the buttons and information sections on the interface, you can decide which positions all the robots will go to:
 ````
 cd filo_ws/src/code
+chmod +x multi_robot.py robots.py
 python multi_robot.py
 ````
 :exclamation: Make sure the multi_robot.py and robots.py files are in the same directory
