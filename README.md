@@ -51,7 +51,7 @@ Type this code in terminal screen:
 bash
 ````
 
-# Operating the Multi-Robot System :fireworks:
+# Operating the Multi-Robot System 
 :heavy_check_mark: First Terminal -- Initializing the Gazebo simulation environment:
 ````
 roslaunch turtlebot3_gazebo multi_turtlebot3.launch
