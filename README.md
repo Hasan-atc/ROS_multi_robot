@@ -118,3 +118,4 @@ For more detailed information, I recommend you to review the links that I will r
 
 # Coming Soon :1st_place_medal:
 :white_check_mark: I will open source [Teknofest Autonomous Vehicle Competition](https://teknofest.org/en/competitions/competition/29) codes
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/hsnatc_02/?next=%2F))
