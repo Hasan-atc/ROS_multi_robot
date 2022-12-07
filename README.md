@@ -22,5 +22,7 @@ mkdir -p src
 :small_red_triangle_down: Start downloading necessary files to the workspace:
 
 ````
-
+git clone https://github.com/Hasan-atc/ROS_multi_robot.git
+git clone https://github.com/ros-planning/navigation.git
+git clone https://github.com/ros/geometry2.git
 ````
