@@ -103,7 +103,9 @@ python multi_robot.py
 ![image](https://user-images.githubusercontent.com/74008306/206100456-8f451f6c-73dc-4f7d-a057-2d1fb53ac193.png)
 
 # Result
-:tada:Congratulations, at the end of this study, you learned to move 3 different robots with interface connection autonomously on the map. For more detailed information, I recommend you to review the links that I will reach in the resources section. Stay with the robots.:tada:
+:tada:Congratulations, at the end of this study, you learned to move 3 different robots with interface connection autonomously on the map. 
+
+For more detailed information, I recommend you to review the links that I will reach in the resources section. Stay with the robots.:tada:
 
 # Resources :handshake:
 :small_orange_diamond: https://osrf.github.io/ros2multirobotbook/
@@ -113,3 +115,6 @@ python multi_robot.py
 :small_orange_diamond: https://pypi.org/project/PyQt5/
 
 :small_orange_diamond: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+
+# Coming Soon :1st_place_medal:
+:white_check_mark: I will open source [Teknofest Autonomous Vehicle Competition](https://teknofest.org/en/competitions/competition/29) codes
