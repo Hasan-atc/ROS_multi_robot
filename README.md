@@ -102,4 +102,11 @@ python multi_robot.py
 
 ![image](https://user-images.githubusercontent.com/74008306/206100456-8f451f6c-73dc-4f7d-a057-2d1fb53ac193.png)
 
-#RESULT
+# Result
+:tada:Congratulations, at the end of this study, you learned to move 3 different robots with interface connection autonomously on the map. For more detailed information, I recommend you to review the links that I will reach in the resources section. Stay with the robots.:tada:
+
+# Resources :handshake:
+:small_orange_diamond: https://osrf.github.io/ros2multirobotbook/
+:small_orange_diamond: http://wiki.ros.org/navigation
+:small_orange_diamond: https://pypi.org/project/PyQt5/
+:small_orange_diamond: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
